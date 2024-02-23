@@ -36,8 +36,8 @@ body {
 }
 
 .btn-primary {
-    font-weight: 200;
     font-size: medium;
+    font-weight: bolder;
     background-color: #73ace9;
     color: #0e0000;
     padding: 10px 20px;
@@ -49,10 +49,10 @@ body {
 }
 
 .btn-primary :hover {
-    background-color: #0056b3;
+    background-color: #0573e1;
 }
 
-.weather-card {
+.wather-card {
     border-radius: 10px;
     padding: 10px;
     width: 300px;
@@ -62,15 +62,15 @@ body {
     justify-content: center;
     align-items: center;
     backdrop-filter: blur(10px);
-    background: +#cccccc7e;
+    background: #cccccc7e;
 }
 
-.weather-card h1 {
+.wather-card h1 {
     margin: 0;
     padding: 0;
 }
 
-.weather-card h2 {
+.wather-card h2 {
     margin: 0;
     padding: 0;
 }
